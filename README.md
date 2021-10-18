@@ -18,15 +18,17 @@
 ### Languages and Tools:
 
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.png" />
+<img align="left" alt="Unix" width="45px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />
+<img align="left" alt="Unix" width="45px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/aws.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-
 <img align="left" alt="Unix" width="30px" src="https://camo.githubusercontent.com/0d0b642c6918dcb2adef8b62fdaf78feeeda786dffc73543d61de07b7ca5daab/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d312d313137343933352e706e67" />
 <img align="left" alt="Unix" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />
+
+
 
 
 
