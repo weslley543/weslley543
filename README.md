@@ -1,16 +1,16 @@
 ## Hi there, I'm Weslley de Campos 
 
-### I'm a backend developer interested in distributed computing and big data processing.
+### I'm a backend developer interested in distributed computing big data enthusiast.
 
-- 🤓 Student in computer science at Sao Paulo State University on the campus of Presidente Prudente - Sao Paulo.
+- 🤓 Undergratuated in computer science at Sao Paulo State University.
 - ⚡ Fun fact: I train boxing, bodybuilding and play drums.
 
 
 ### Connect with me:
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" style="max-width: 100%;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Instagram" style="margin-left:3px; max-width: 100%;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 
 <br />
@@ -27,9 +27,10 @@
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Unix" width="30px" src="https://camo.githubusercontent.com/0d0b642c6918dcb2adef8b62fdaf78feeeda786dffc73543d61de07b7ca5daab/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d312d313137343933352e706e67" />
 <img align="left" alt="Unix" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />
-
-
-
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 
 <br />
@@ -42,5 +43,5 @@
 </div>
  
 
-[instagram]: https://www.linkedin.com/in/weslley-campos-58405b161/
-[linkedin]: https://www.instagram.com/weslleyeumesmo/
+[instagram]: https://www.instagram.com/weslleyeumesmo/
+[linkedin]: https://www.linkedin.com/in/weslley-campos-58405b161/
