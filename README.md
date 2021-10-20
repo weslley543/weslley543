@@ -1,6 +1,6 @@
 ## Hi there, I'm Weslley de Campos 
 
-### I'm a backend developer interested in distributed computing big data enthusiast.
+### I'm a backend developer interested in distributed computing and big data enthusiast.
 
 - 🤓 Undergratuated in computer science at Sao Paulo State University.
 - ⚡ Fun fact: I train boxing, bodybuilding and play drums.
