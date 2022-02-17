@@ -3,7 +3,7 @@
 ### I'm a backend developer interested in distributed computing and big data enthusiast.
 
 - 🤓 Undergratuated in computer science at Sao Paulo State University.
-- ⚡ Fun fact: I train boxing, bodybuilding and play drums.
+- ⚡ Fun fact: I train boxing, bodybuilding, cycling and play the drums.
 
 
 ### Connect with me:
